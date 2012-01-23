@@ -22,6 +22,7 @@
         "widgets/LayerUploadPanel.js",
         "widgets/LineSymbolizer.js",
         "widgets/PolygonSymbolizer.js",
+        "widgets/PoweredBy.js",
         "widgets/RulePanel.js",
         "widgets/ScaleLimitPanel.js",
         "widgets/TextSymbolizer.js",

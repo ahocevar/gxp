@@ -304,6 +304,25 @@ div.map-overlay div.overlay-element {
     left: 0px;
     margin-top: 0px;
 }
+
+/* gxp_poweredby */
+.gxp-poweredby {
+    background-image: url(img/pbOGv-27x105.png);
+    width: 27px;
+    height: 105px;
+    top: 100px;
+    left: 1px;
+    z-index: 1000;
+    position: absolute;
+}
+.gxp-poweredby-ct .olLayerGoogleV3.olLayerGoogleCopyright {
+    left: 190px;
+}
+.gxp-poweredby-ct .olLayerGoogleV3.olLayerGooglePoweredBy {
+    left: 110px !important;
+    bottom: 0px !important;
+}
+
 /* gxp_playback */
 div.olMap div.gx-overlay-playback {
     position: absolute;
